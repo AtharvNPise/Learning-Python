@@ -1,0 +1,1 @@
+print("27-10-2025, First Code of the Day")
